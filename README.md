@@ -20,4 +20,4 @@ Data Science from A to Z
 - Algorithms
 - Programming Concepts
 
-<br/>Well complemented by Machine Learning Curriculum: https://github.com/Valdini/Machine-Learning-Curriculum
+<br/>Well complemented by my Machine Learning Curriculum: https://github.com/Valdini/Machine-Learning-Curriculum
