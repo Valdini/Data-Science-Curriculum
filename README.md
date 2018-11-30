@@ -19,3 +19,5 @@ Data Science from A to Z
 - Data Structures
 - Algorithms
 - Programming Concepts
+
+<br/>Well complemented by Machine Learning Curriculum: https://github.com/Valdini/Machine-Learning-Curriculum
